@@ -1,0 +1,42 @@
+.certification {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+}
+.logo {
+  width: 60px;
+  height: 60px;
+  margin-right: 0px;
+  margin-top: 0px;
+  vertical-align: top;
+}
+.svg_logo {
+  width: 60px;
+  height: 60px;
+  margin-right: 0px;
+  margin-top: 0px;
+  vertical-align: bottom;
+}
+.main-content {
+  display: flex;
+}
+.details {
+  margin-left: 5px;
+}
+.media-thumbnail {
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+  margin-top: 5px;
+  vertical-align: top;
+}
+.qrcode {
+  width: 74px;
+  height: 74px;
+  margin-right: 5px;
+  margin-top: 5px;
+  vertical-align: top;
+}
+.credential-url {
+  margin-top: 10px;
+}
